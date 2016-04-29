@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, CellInfoTest!</string>
+    <string name="app_name">Dr. Nick</string>
+
+    <string name="exit_label">Exit</string>
+    <string name="exit_shortcut">x</string>    
+    <string name="settings_label">Settings</string>
+    <string name="settings_title">My settings</string>
+    <string name="settings_shortcut">s</string>
+    
+    <string name="log_title">Log</string>
+    <string name="log_summary">Log to file</string>
+    <string name="extra_title">Extra</string>
+    <string name="extra_summary">Extra option</string>
+    <string name="enable">Enable the Stethoscope</string>
+    <string name="listValidated">Validate this Tower</string>    
+</resources>
